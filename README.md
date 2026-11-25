@@ -154,3 +154,4 @@ Combineer zoeken op woorden en zoeken op betekenis in één functie. Zoek uit ho
 Lever de link naar de repository in met jouw werkende Next.js-applicatie. In de `README.md` staan jouw antwoorden op de reflectievragen, je SQL-functie, de drempelwaarde die je hebt gekozen en je testresultaten uit onderdeel 5.
 
 **Let op:** lever je API-keys nooit in. Dit geldt voor je OpenAI API-key, je Supabase secret key en de key van je externe API. Neem deze niet op in je broncode, README.md, screenshots of Git-repository. De applicatie moet de sleutels uit `.env.local` lezen.
+# novi-embedding-huiswerk
